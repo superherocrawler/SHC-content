@@ -1,0 +1,439 @@
+{
+  "version": "1.0",
+  "news": {
+    "es": [
+      {
+        "title": "PARCHE — LANZAMIENTO OFICIAL 1.0",
+        "date": "2026-07-30",
+        "tagline": "La experiencia completa ya está aquí. ¡Gracias por ser parte de este viaje! ❤️",
+        "highlights": [
+          {
+            "icon": "📖",
+            "color": "#c9a53a",
+            "title": "Historia completa con cómics",
+            "text": "Sumérgete en nuestra historia original contada con cómics propios, al inicio de cada Acto y al derrotar a cada jefe. Descubre la verdad detrás de cada misión."
+          },
+          {
+            "icon": "🗺️",
+            "color": "#3aa0ff",
+            "title": "5 Actos totalmente gratis",
+            "text": "Generados de forma procedural, rejugables y siempre impredecibles. Ninguna partida será igual a otra.",
+            "badge": "5 ACTOS"
+          },
+          {
+            "icon": "🏆",
+            "color": "#b46bff",
+            "title": "Leaderboards",
+            "text": "Compite con jugadores de todo el mundo y escala posiciones. Nueva temporada de lanzamiento con recompensas."
+          },
+          {
+            "icon": "🎴",
+            "color": "#ffb020",
+            "title": "Colección masiva",
+            "text": "Combinaciones infinitas para construir tu mazo definitivo.",
+            "badge": "191 CARTAS · 22 HÉROES"
+          },
+          {
+            "icon": "🌀",
+            "color": "#39d98a",
+            "title": "Daily Climb",
+            "text": "Una semilla diaria única para todos, con un reto especial. Solo los 10 mejores se llevan recompensas exclusivas.",
+            "badge": "TOP 10 PREMIADO"
+          },
+          {
+            "icon": "🎧",
+            "color": "#4fc3ff",
+            "title": "Audio y visuales épicos",
+            "text": "Música, sonidos y efectos visuales nuevos. Una experiencia más intensa y cinematográfica que nunca."
+          },
+          {
+            "icon": "🪪",
+            "color": "#ff9a3c",
+            "title": "Perfil de jugador",
+            "text": "Revisa todas tus estadísticas, historial de partidas, mejores puntuaciones y cartas más usadas en un solo lugar."
+          },
+          {
+            "icon": "📈",
+            "color": "#7ee787",
+            "title": "Metaprogresión",
+            "text": "Aumenta tu tasa de éxito en las misiones y mejora a tu héroe de forma permanente: fuerza, vida y mucho más.",
+            "badge": "+18 STATS"
+          },
+          {
+            "icon": "🔮",
+            "color": "#8a7dff",
+            "title": "Laboratorio",
+            "text": "Desbloquea y mejora pasivas únicas que te dan ventaja en cada partida.",
+            "badge": "14 PASIVAS"
+          },
+          {
+            "icon": "🎭",
+            "color": "#e05cc4",
+            "title": "Eventos dinámicos",
+            "text": "Distintos eventos pueden cambiar el rumbo de tu partida. Elige con sabiduría, héroe.",
+            "badge": "19 EVENTOS"
+          },
+          {
+            "icon": "📦",
+            "color": "#e0b23c",
+            "title": "Cofres y recompensas",
+            "text": "Gana cofres cargados de cartas, gemas, recursos y más sorpresas."
+          },
+          {
+            "icon": "🌐",
+            "color": "#2ee6a6",
+            "title": "Ahora en 4 idiomas",
+            "text": "La Agencia ya habla español, inglés, portugués y coreano — cámbialo cuando quieras desde Ajustes."
+          },
+          {
+            "icon": "⭐",
+            "color": "#ffd700",
+            "title": "Maestría de Héroes",
+            "text": "Sube de nivel a cada héroe hasta el 50, desbloquea hitos cada 5 niveles y consigue un marco especial de recompensa."
+          },
+          {
+            "icon": "☁️",
+            "color": "#5ad1ff",
+            "title": "Guardado en la nube",
+            "text": "Tu progreso viaja contigo entre dispositivos con tu cuenta de Google — inicia sesión y nunca lo pierdas."
+          },
+          {
+            "icon": "⚙️",
+            "color": "#6ab7ff",
+            "title": "Y mucho más",
+            "text": "Balanceo, mejoras de calidad de vida, animaciones nuevas, mejoras visuales y montones de pequeños detalles que hacen la experiencia más fluida y mejor."
+          }
+        ],
+        "footerTitle": "¡GRACIAS, HÉROES!",
+        "footerText": "A todos nuestros increíbles Beta Testers: creyeron en este juego cuando era solo una idea. Su feedback, pasión y apoyo convirtieron el sueño de una persona en una realidad. Este juego es para ustedes. ¡Gracias! ❤️ — De un desarrollador en solitario con un gran sueño."
+      }
+    ],
+    "en": [
+      {
+        "title": "PATCH NOTES — OFFICIAL LAUNCH 1.0",
+        "date": "2026-07-30",
+        "tagline": "The full experience is here. Thank you for being part of this journey! ❤️",
+        "highlights": [
+          {
+            "icon": "📖",
+            "color": "#c9a53a",
+            "title": "Complete story with comics",
+            "text": "Immerse yourself in our original story told through stunning comics, at the start of each Act and after every boss fight. Discover the truth behind every mission."
+          },
+          {
+            "icon": "🗺️",
+            "color": "#3aa0ff",
+            "title": "5 fully free Acts",
+            "text": "Procedurally generated, replayable, and completely unpredictable. No two runs will ever be the same.",
+            "badge": "5 ACTS"
+          },
+          {
+            "icon": "🏆",
+            "color": "#b46bff",
+            "title": "Leaderboards",
+            "text": "Compete with players from around the world and climb to the top. New full launch season and rewards."
+          },
+          {
+            "icon": "🎴",
+            "color": "#ffb020",
+            "title": "Massive collection",
+            "text": "Endless combinations to build your ultimate deck.",
+            "badge": "191 CARDS · 22 HEROES"
+          },
+          {
+            "icon": "🌀",
+            "color": "#39d98a",
+            "title": "Daily Climb",
+            "text": "A unique daily seed for everyone with a special challenge. Only the top 10 will earn exclusive rewards.",
+            "badge": "TOP 10 REWARDED"
+          },
+          {
+            "icon": "🎧",
+            "color": "#4fc3ff",
+            "title": "Epic audio & visuals",
+            "text": "Brand new music, sounds and visual effects. A more intense, cinematic experience than ever before."
+          },
+          {
+            "icon": "🪪",
+            "color": "#ff9a3c",
+            "title": "Player profile",
+            "text": "Check all your stats, runs history, best scores and top performing cards in one place."
+          },
+          {
+            "icon": "📈",
+            "color": "#7ee787",
+            "title": "Metaprogression",
+            "text": "Increase your success rate in missions and permanently improve your hero: strength, health and more.",
+            "badge": "18+ STATS"
+          },
+          {
+            "icon": "🔮",
+            "color": "#8a7dff",
+            "title": "Laboratory",
+            "text": "Unlock and upgrade unique passives that give you the edge in every run.",
+            "badge": "14 PASSIVES"
+          },
+          {
+            "icon": "🎭",
+            "color": "#e05cc4",
+            "title": "Dynamic events",
+            "text": "Different events can change the course of your run. Choose wisely, hero.",
+            "badge": "19 EVENTS"
+          },
+          {
+            "icon": "📦",
+            "color": "#e0b23c",
+            "title": "Chests & rewards",
+            "text": "Earn powerful chests filled with cards, gems, resources and more surprises."
+          },
+          {
+            "icon": "🌐",
+            "color": "#2ee6a6",
+            "title": "Now in 4 languages",
+            "text": "The Agency now speaks Spanish, English, Portuguese and Korean — switch it anytime from Settings."
+          },
+          {
+            "icon": "⭐",
+            "color": "#ffd700",
+            "title": "Hero Mastery",
+            "text": "Level up every hero up to 50, unlock milestones every 5 levels, and earn a special reward frame."
+          },
+          {
+            "icon": "☁️",
+            "color": "#5ad1ff",
+            "title": "Cloud save",
+            "text": "Your progress travels with you across devices with your Google account — sign in and never lose it."
+          },
+          {
+            "icon": "⚙️",
+            "color": "#6ab7ff",
+            "title": "And much more!",
+            "text": "Balancing, quality of life improvements, new animations, visual upgrades and tons of little details that make the experience smoother and better."
+          }
+        ],
+        "footerTitle": "THANK YOU, HEROES!",
+        "footerText": "To all our amazing Beta Testers: you believed in this game when it was just an idea. Your feedback, passion and support turned the dream of one person into a reality. This game is for you. Thank you! ❤️ — From a solo developer with a big dream."
+      }
+    ],
+    "pt": [
+      {
+        "title": "NOTAS DO PATCH — LANÇAMENTO OFICIAL 1.0",
+        "date": "2026-07-30",
+        "tagline": "A experiência completa chegou. Obrigado por fazer parte dessa jornada! ❤️",
+        "highlights": [
+          {
+            "icon": "📖",
+            "color": "#c9a53a",
+            "title": "História completa com quadrinhos",
+            "text": "Mergulhe em nossa história original contada em quadrinhos próprios, no início de cada Ato e após derrotar cada chefe. Descubra a verdade por trás de cada missão."
+          },
+          {
+            "icon": "🗺️",
+            "color": "#3aa0ff",
+            "title": "5 Atos totalmente gratuitos",
+            "text": "Gerados proceduralmente, rejogáveis e sempre imprevisíveis. Nenhuma partida será igual à outra.",
+            "badge": "5 ATOS"
+          },
+          {
+            "icon": "🏆",
+            "color": "#b46bff",
+            "title": "Classificações",
+            "text": "Compita com jogadores do mundo todo e suba no ranking. Nova temporada de lançamento com recompensas."
+          },
+          {
+            "icon": "🎴",
+            "color": "#ffb020",
+            "title": "Coleção enorme",
+            "text": "Combinações infinitas para construir seu deck definitivo.",
+            "badge": "191 CARTAS · 22 HERÓIS"
+          },
+          {
+            "icon": "🌀",
+            "color": "#39d98a",
+            "title": "Daily Climb",
+            "text": "Uma seed diária única para todos, com um desafio especial. Somente os 10 melhores ganham recompensas exclusivas.",
+            "badge": "TOP 10 PREMIADO"
+          },
+          {
+            "icon": "🎧",
+            "color": "#4fc3ff",
+            "title": "Áudio e visuais épicos",
+            "text": "Músicas, sons e efeitos visuais novos. Uma experiência mais intensa e cinematográfica do que nunca."
+          },
+          {
+            "icon": "🪪",
+            "color": "#ff9a3c",
+            "title": "Perfil do jogador",
+            "text": "Veja todas as suas estatísticas, histórico de partidas, melhores pontuações e cartas mais usadas em um só lugar."
+          },
+          {
+            "icon": "📈",
+            "color": "#7ee787",
+            "title": "Metaprogressão",
+            "text": "Aumente sua taxa de sucesso nas missões e melhore seu herói permanentemente: força, vida e muito mais.",
+            "badge": "+18 STATS"
+          },
+          {
+            "icon": "🔮",
+            "color": "#8a7dff",
+            "title": "Laboratório",
+            "text": "Desbloqueie e melhore passivas únicas que te dão vantagem em cada partida.",
+            "badge": "14 PASSIVAS"
+          },
+          {
+            "icon": "🎭",
+            "color": "#e05cc4",
+            "title": "Eventos dinâmicos",
+            "text": "Diferentes eventos podem mudar o rumo da sua partida. Escolha com sabedoria, herói.",
+            "badge": "19 EVENTOS"
+          },
+          {
+            "icon": "📦",
+            "color": "#e0b23c",
+            "title": "Baús e recompensas",
+            "text": "Ganhe baús poderosos cheios de cartas, gemas, recursos e outras surpresas."
+          },
+          {
+            "icon": "🌐",
+            "color": "#2ee6a6",
+            "title": "Agora em 4 idiomas",
+            "text": "A Agência agora fala espanhol, inglês, português e coreano — mude quando quiser em Ajustes."
+          },
+          {
+            "icon": "⭐",
+            "color": "#ffd700",
+            "title": "Maestria de Heróis",
+            "text": "Suba o nível de cada herói até o 50, desbloqueie marcos a cada 5 níveis e ganhe uma moldura especial de recompensa."
+          },
+          {
+            "icon": "☁️",
+            "color": "#5ad1ff",
+            "title": "Salvamento na nuvem",
+            "text": "Seu progresso viaja com você entre dispositivos com sua conta do Google — faça login e nunca mais perca seu progresso."
+          },
+          {
+            "icon": "⚙️",
+            "color": "#6ab7ff",
+            "title": "E muito mais!",
+            "text": "Balanceamento, melhorias de qualidade de vida, novas animações, upgrades visuais e muitos pequenos detalhes que tornam a experiência mais fluida e melhor."
+          }
+        ],
+        "footerTitle": "OBRIGADO, HERÓIS!",
+        "footerText": "A todos os nossos incríveis Beta Testers: vocês acreditaram neste jogo quando ele era apenas uma ideia. O feedback, a paixão e o apoio de vocês transformaram o sonho de uma pessoa em realidade. Este jogo é para vocês. Obrigado! ❤️ — De um desenvolvedor solo com um grande sonho."
+      }
+    ],
+    "ko": [
+      {
+        "title": "패치 노트 — 공식 출시 1.0",
+        "date": "2026-07-30",
+        "tagline": "완전한 경험이 드디어 찾아왔습니다. 이 여정에 함께해 주셔서 감사합니다! ❤️",
+        "highlights": [
+          {
+            "icon": "📖",
+            "color": "#c9a53a",
+            "title": "만화로 즐기는 완전한 스토리",
+            "text": "각 액트의 시작과 보스 처치 후 공개되는 독자적인 만화로 스토리에 몰입해보세요. 모든 미션 뒤에 숨겨진 진실을 파헤쳐보세요."
+          },
+          {
+            "icon": "🗺️",
+            "color": "#3aa0ff",
+            "title": "5개의 완전 무료 액트",
+            "text": "절차적으로 생성되고, 반복 플레이가 가능하며, 언제나 예측 불가능합니다. 똑같은 플레이는 두 번 다시 없습니다.",
+            "badge": "5개 액트"
+          },
+          {
+            "icon": "🏆",
+            "color": "#b46bff",
+            "title": "리더보드",
+            "text": "전 세계 플레이어들과 경쟁하며 순위를 올려보세요. 정식 출시 새 시즌과 보상이 준비되어 있습니다."
+          },
+          {
+            "icon": "🎴",
+            "color": "#ffb020",
+            "title": "방대한 컬렉션",
+            "text": "무한한 조합으로 최강의 덱을 만들어보세요.",
+            "badge": "카드 191장 · 히어로 22명"
+          },
+          {
+            "icon": "🌀",
+            "color": "#39d98a",
+            "title": "데일리 클라임",
+            "text": "모두에게 동일한 특별한 하루 시드로 도전하는 콘텐츠입니다. 상위 10명만 독점 보상을 받습니다.",
+            "badge": "TOP 10 보상"
+          },
+          {
+            "icon": "🎧",
+            "color": "#4fc3ff",
+            "title": "압도적인 사운드와 비주얼",
+            "text": "새로운 음악, 사운드, 비주얼 이펙트. 그 어느 때보다 몰입감 있고 영화 같은 경험을 선사합니다."
+          },
+          {
+            "icon": "🪪",
+            "color": "#ff9a3c",
+            "title": "플레이어 프로필",
+            "text": "모든 통계, 플레이 기록, 최고 점수, 가장 많이 사용한 카드를 한곳에서 확인하세요."
+          },
+          {
+            "icon": "📈",
+            "color": "#7ee787",
+            "title": "메타 성장",
+            "text": "미션 성공률을 높이고 히어로를 영구적으로 강화하세요: 힘, 체력 등 다양한 능력치가 있습니다.",
+            "badge": "18개+ 스탯"
+          },
+          {
+            "icon": "🔮",
+            "color": "#8a7dff",
+            "title": "연구소",
+            "text": "고유한 패시브를 해금하고 강화하여 모든 플레이에서 우위를 점하세요.",
+            "badge": "패시브 14종"
+          },
+          {
+            "icon": "🎭",
+            "color": "#e05cc4",
+            "title": "다이나믹 이벤트",
+            "text": "다양한 이벤트가 플레이의 흐름을 바꿀 수 있습니다. 신중하게 선택하세요, 히어로.",
+            "badge": "이벤트 19종"
+          },
+          {
+            "icon": "📦",
+            "color": "#e0b23c",
+            "title": "상자와 보상",
+            "text": "카드, 젬, 자원 등 다양한 서프라이즈로 가득한 강력한 상자를 획득하세요."
+          },
+          {
+            "icon": "🌐",
+            "color": "#2ee6a6",
+            "title": "이제 4개 언어 지원",
+            "text": "이제 에이전시가 스페인어, 영어, 포르투갈어, 한국어를 지원합니다 — 설정에서 언제든 변경하세요."
+          },
+          {
+            "icon": "⭐",
+            "color": "#ffd700",
+            "title": "히어로 마스터리",
+            "text": "각 히어로를 50레벨까지 성장시키고, 5레벨마다 마일스톤을 해금하며, 특별한 보상 프레임을 획득하세요."
+          },
+          {
+            "icon": "☁️",
+            "color": "#5ad1ff",
+            "title": "클라우드 저장",
+            "text": "구글 계정으로 로그인하면 기기가 바뀌어도 진행 상황이 그대로 이어집니다 — 로그인하고 다시는 진행 상황을 잃지 마세요."
+          },
+          {
+            "icon": "⚙️",
+            "color": "#6ab7ff",
+            "title": "그 외에도 더 많은 것들!",
+            "text": "밸런스 조정, 편의성 개선, 새로운 애니메이션, 비주얼 업그레이드, 그리고 경험을 더 매끄럽고 좋게 만드는 수많은 작은 디테일들이 담겨 있습니다."
+          }
+        ],
+        "footerTitle": "감사합니다, 히어로 여러분!",
+        "footerText": "멋진 베타 테스터 여러분께: 이 게임이 그저 하나의 아이디어에 불과했을 때부터 믿어주셨습니다. 여러분의 피드백과 열정, 응원이 한 사람의 꿈을 현실로 만들어주었습니다. 이 게임은 여러분을 위한 것입니다. 감사합니다! ❤️ — 큰 꿈을 가진 1인 개발자 드림."
+      }
+    ]
+  },
+  "roadmap": {
+    "es": [],
+    "en": [],
+    "pt": [],
+    "ko": []
+  }
+}

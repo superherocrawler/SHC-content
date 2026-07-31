@@ -431,9 +431,117 @@
     ]
   },
   "roadmap": {
-    "es": [],
-    "en": [],
-    "pt": [],
-    "ko": []
+    "es": [
+      {
+        "title": "ROADMAP — PRÓXIMAMENTE",
+        "tagline": "Esto es solo el comienzo. Así seguimos construyendo la Agencia.",
+        "highlights": [
+          {
+            "icon": "🎨",
+            "color": "#4fc3ff",
+            "title": "Mejoras visuales",
+            "text": "Seguimos puliendo pantallas, animaciones y detalles en todo el juego."
+          },
+          {
+            "icon": "🗺️",
+            "color": "#b46bff",
+            "title": "Nuevos actos",
+            "text": "Más actos en desarrollo, ampliando la historia más allá del lanzamiento."
+          },
+          {
+            "icon": "📦",
+            "color": "#ffb020",
+            "title": "Nuevo contenido",
+            "text": "Más héroes, cartas, gemas y eventos en camino."
+          }
+        ],
+        "footerTitle": "¡GRACIAS POR TU FEEDBACK!",
+        "footerText": "Cada sugerencia que envías ayuda a decidir qué construir después. Gracias por acompañar este viaje. ❤️"
+      }
+    ],
+    "en": [
+      {
+        "title": "ROADMAP — COMING SOON",
+        "tagline": "This is just the beginning. Here's how we keep building the Agency.",
+        "highlights": [
+          {
+            "icon": "🎨",
+            "color": "#4fc3ff",
+            "title": "Visual improvements",
+            "text": "We keep polishing screens, animations and details across the whole game."
+          },
+          {
+            "icon": "🗺️",
+            "color": "#b46bff",
+            "title": "New Acts",
+            "text": "More Acts in development, expanding the story beyond launch."
+          },
+          {
+            "icon": "📦",
+            "color": "#ffb020",
+            "title": "New content",
+            "text": "More heroes, cards, gems and events on the way."
+          }
+        ],
+        "footerTitle": "THANKS FOR YOUR FEEDBACK!",
+        "footerText": "Every suggestion you send helps decide what to build next. Thanks for coming along on this journey. ❤️"
+      }
+    ],
+    "pt": [
+      {
+        "title": "ROADMAP — EM BREVE",
+        "tagline": "Isso é só o começo. É assim que seguimos construindo a Agência.",
+        "highlights": [
+          {
+            "icon": "🎨",
+            "color": "#4fc3ff",
+            "title": "Melhorias visuais",
+            "text": "Continuamos aprimorando telas, animações e detalhes em todo o jogo."
+          },
+          {
+            "icon": "🗺️",
+            "color": "#b46bff",
+            "title": "Novos Atos",
+            "text": "Mais Atos em desenvolvimento, expandindo a história além do lançamento."
+          },
+          {
+            "icon": "📦",
+            "color": "#ffb020",
+            "title": "Novo conteúdo",
+            "text": "Mais heróis, cartas, gemas e eventos a caminho."
+          }
+        ],
+        "footerTitle": "OBRIGADO PELO SEU FEEDBACK!",
+        "footerText": "Cada sugestão que você envia ajuda a decidir o que construir a seguir. Obrigado por acompanhar essa jornada. ❤️"
+      }
+    ],
+    "ko": [
+      {
+        "title": "로드맵 — 다가올 콘텐츠",
+        "tagline": "이건 시작에 불과합니다. 에이전시를 계속 이렇게 만들어 나갈 예정입니다.",
+        "highlights": [
+          {
+            "icon": "🎨",
+            "color": "#4fc3ff",
+            "title": "비주얼 개선",
+            "text": "게임 전반의 화면, 애니메이션, 디테일을 계속 다듬고 있습니다."
+          },
+          {
+            "icon": "🗺️",
+            "color": "#b46bff",
+            "title": "새로운 액트",
+            "text": "출시 이후의 스토리를 확장할 새로운 액트를 개발 중입니다."
+          },
+          {
+            "icon": "📦",
+            "color": "#ffb020",
+            "title": "새로운 콘텐츠",
+            "text": "더 많은 히어로, 카드, 젬, 이벤트가 준비되고 있습니다."
+          }
+        ],
+        "footerTitle": "피드백에 감사드립니다!",
+        "footerText": "보내주시는 모든 의견이 다음에 무엇을 만들지 결정하는 데 도움이 됩니다. 이 여정에 함께해 주셔서 감사합니다. ❤️"
+      }
+    ]
   }
 }

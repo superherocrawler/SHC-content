@@ -5,64 +5,91 @@
       {
         "title": "PARCHE 2.0 — EL GRAN REWORK",
         "date": "2026-08-29",
-        "tagline": "Nuevo arte, nuevo Modo Endless, y Mochi sigue liándola. ¡Bienvenidos a la Agencia renovada!",
+        "tagline": "Arte nuevo, historia nueva, Mochi nuevo... ¡todo nuevo! Bienvenidos a la Agencia renovada.",
         "highlights": [
           {
             "icon": "🎨",
             "color": "#ff6f91",
             "title": "Rediseño artístico 2D completo",
-            "text": "Todo el juego ha sido re-ilustrado a mano con un estilo cómic mucho más cuidado y consistente que nunca."
+            "text": "Todo el juego, sin excepciones, ha sido re-ilustrado a mano con un estilo cómic mucho más cuidado y consistente que nunca.",
+            "badge": "ARTE 100% NUEVO"
           },
           {
             "icon": "🦸",
             "color": "#ffb020",
-            "title": "Héroes y enemigos renovados",
-            "text": "Nuevos retratos para varios héroes de la Agencia y un repaso visual a los enemigos de cada Acto.",
-            "badge": "11 HÉROES NUEVOS"
+            "title": "Los 22 héroes rediseñados",
+            "text": "Retrato nuevo para cada héroe de la Agencia, sin excepción.",
+            "badge": "22 HÉROES"
+          },
+          {
+            "icon": "👹",
+            "color": "#e05c5c",
+            "title": "Enemigos y jefes completamente nuevos",
+            "text": "El Acto 1 y el Acto 2 estrenan enemigos y jefes finales desde cero.",
+            "badge": "ACTO 1 Y 2"
           },
           {
             "icon": "⚔️",
             "color": "#ff5252",
             "title": "Animaciones y efectos nuevos",
-            "text": "Nuevas animaciones y efectos visuales en combate para que cada golpe se sienta con más impacto."
+            "text": "Nuevas animaciones y efectos visuales en combate para que cada golpe se sienta con más impacto.",
+            "badge": "NUEVOS VFX"
           },
           {
             "icon": "🗺️",
             "color": "#3aa0ff",
-            "title": "Modo Endless renovado por completo",
+            "title": "Modo Endless: contenido totalmente nuevo",
             "text": "Mapa de nodos totalmente ilustrado e interactivo, con Mochi como tu marcador animado guiándote por el camino.",
-            "badge": "5 TIPOS DE NODO NUEVOS"
+            "badge": "5 TIPOS DE NODO"
+          },
+          {
+            "icon": "🐱",
+            "color": "#ff6fa5",
+            "title": "Mochi, nuevo personaje",
+            "text": "Nuestra mascota debuta en la Agencia: aparece en la historia, en los menús y en el Modo Endless.",
+            "badge": "NUEVO PERSONAJE"
           },
           {
             "icon": "📖",
             "color": "#c9a53a",
-            "title": "Nuevas escenas de historia con Mochi",
-            "text": "El narrador de la Agencia estrena escenas y diálogos nuevos protagonizados por nuestro gato favorito."
+            "title": "Historia completamente nueva",
+            "text": "Nueva narrativa de campaña de principio a fin, contada por el narrador de la Agencia.",
+            "badge": "NUEVA CAMPAÑA"
           },
           {
             "icon": "🎮",
             "color": "#b46bff",
-            "title": "Menús e interfaz rediseñados",
-            "text": "Perfil de Agente, El Ascenso y la sección de Noticias — un vistazo renovado en toda la Agencia."
+            "title": "Todos los menús rediseñados",
+            "text": "Perfil de Agente, El Ascenso, Noticias y cada rincón de la Agencia con un vistazo completamente nuevo.",
+            "badge": "TODA LA AGENCIA"
           },
           {
-            "icon": "⚡",
+            "icon": "🎯",
             "color": "#39d98a",
-            "title": "Combate, cartas y eventos mejorados",
-            "text": "16 eventos de mazmorra con decisiones ambiguas: elige sin saber la cifra exacta, como debe ser.",
-            "badge": "16 EVENTOS"
+            "title": "Nuevos modos de dificultad",
+            "text": "Elige tu reto: Normal, Difícil o Ultra.",
+            "badge": "NORMAL · DIFÍCIL · ULTRA"
+          },
+          {
+            "icon": "🎭",
+            "color": "#e05cc4",
+            "title": "Más de 30 eventos renovados",
+            "text": "Decisiones ambiguas: elige sin saber la cifra exacta, como debe ser.",
+            "badge": "30+ EVENTOS"
+          },
+          {
+            "icon": "🏙️",
+            "color": "#8a7dff",
+            "title": "Acto 1 y Acto 2 remasterizados",
+            "text": "Ambientación y escenarios completamente renovados en ambos actos.",
+            "badge": "2 ACTOS"
           },
           {
             "icon": "🎵",
             "color": "#4fc3ff",
             "title": "Banda sonora nueva",
-            "text": "Una pista musical propia para el Menú, cada Acto y el Modo Endless."
-          },
-          {
-            "icon": "🏙️",
-            "color": "#8a7dff",
-            "title": "Acto 1 remasterizado",
-            "text": "El barrio residencial de Centro Urbano estrena fachadas urbanas continuas y una ambientación mucho más viva."
+            "text": "Una pista musical propia para el Menú, cada Acto y el Modo Endless.",
+            "badge": "4 PISTAS NUEVAS"
           },
           {
             "icon": "💎",
@@ -72,34 +99,46 @@
             "badge": "58 GEMAS"
           },
           {
+            "icon": "🌀",
+            "color": "#39d98a",
+            "title": "Novedades en el Daily Climb",
+            "text": "Nuevos modificadores diarios que cambian cada partida del reto compartido.",
+            "badge": "NUEVOS MODIFICADORES"
+          },
+          {
+            "icon": "🏆",
+            "color": "#e0b23c",
+            "title": "Nuevo sistema de cofres — El Ascenso",
+            "text": "Escala pisos de rango y reclama un cofre de recompensa en cada uno.",
+            "badge": "COFRES POR PISO"
+          },
+          {
             "icon": "🌍",
             "color": "#ffd700",
             "title": "Traducción reforzada",
-            "text": "Corregidos decenas de textos que aparecían en español pese a jugar en otro idioma — la Agencia ahora habla mejor los 4 idiomas."
+            "text": "Corregidos decenas de textos que aparecían en español pese a jugar en otro idioma.",
+            "badge": "4 IDIOMAS"
           },
           {
             "icon": "☁️",
             "color": "#5ad1ff",
             "title": "Guardado en la nube más estable",
-            "text": "Identidad de cuenta corregida: tu progreso ya no se pierde al reinstalar o cambiar de dispositivo."
+            "text": "Identidad de cuenta corregida: tu progreso ya no se pierde al reinstalar o cambiar de dispositivo.",
+            "badge": "MÁS ESTABLE"
           },
           {
             "icon": "🔔",
             "color": "#ff9a3c",
             "title": "Notificaciones corregidas",
-            "text": "Los avisos de racha y misiones pendientes ya llegan también con el móvil en reposo."
+            "text": "Los avisos de racha y misiones pendientes ya llegan también con el móvil en reposo.",
+            "badge": "RECORDATORIOS FIABLES"
           },
           {
             "icon": "⭐",
-            "color": "#e0b23c",
+            "color": "#ffb020",
             "title": "Valora la app y gana monedas",
-            "text": "Recompensa garantizada solo por intentarlo — sin condiciones sobre la nota que dejes."
-          },
-          {
-            "icon": "🐱",
-            "color": "#ff6fa5",
-            "title": "Y sí... ¡Mochi sigue dando problemas!",
-            "text": "Nuestro gato favorito sigue apareciendo por los menús para complicarte (o alegrarte) el día."
+            "text": "Recompensa garantizada solo por intentarlo — sin condiciones sobre la nota que dejes.",
+            "badge": "RECOMPENSA GARANTIZADA"
           }
         ],
         "footerTitle": "¡GRACIAS POR ACOMPAÑARNOS!",
@@ -215,64 +254,91 @@
       {
         "title": "PATCH NOTES 2.0 — THE BIG REWORK",
         "date": "2026-08-29",
-        "tagline": "New art, a brand new Endless Mode, and Mochi still causing chaos. Welcome to the renewed Agency!",
+        "tagline": "New art, new story, new Mochi... everything is new! Welcome to the renewed Agency.",
         "highlights": [
           {
             "icon": "🎨",
             "color": "#ff6f91",
-            "title": "Completely redesigned 2D hand-drawn art style",
-            "text": "The whole game has been hand re-illustrated with a far more polished, consistent comic-book style than ever."
+            "title": "Completely redesigned 2D art style",
+            "text": "The entire game, with no exceptions, has been hand re-illustrated with a far more polished, consistent comic-book style than ever.",
+            "badge": "100% NEW ART"
           },
           {
             "icon": "🦸",
             "color": "#ffb020",
-            "title": "Redesigned heroes and enemies",
-            "text": "New portraits for several Agency heroes and a visual upgrade for enemies across every Act.",
-            "badge": "11 NEW HEROES"
+            "title": "All 22 heroes redesigned",
+            "text": "A brand new portrait for every single Agency hero.",
+            "badge": "22 HEROES"
+          },
+          {
+            "icon": "👹",
+            "color": "#e05c5c",
+            "title": "Completely new enemies and bosses",
+            "text": "Act 1 and Act 2 both debut brand new enemies and final bosses.",
+            "badge": "ACT 1 & 2"
           },
           {
             "icon": "⚔️",
             "color": "#ff5252",
             "title": "New animations and visual effects",
-            "text": "New combat animations and VFX so every hit lands with more impact."
+            "text": "New combat animations and VFX so every hit lands with more impact.",
+            "badge": "NEW VFX"
           },
           {
             "icon": "🗺️",
             "color": "#3aa0ff",
-            "title": "New Endless Mode with an interactive map",
+            "title": "Endless Mode: brand new content",
             "text": "A fully illustrated, interactive node map — with Mochi as your animated marker guiding you along the path.",
-            "badge": "5 NEW NODE TYPES"
+            "badge": "5 NODE TYPES"
+          },
+          {
+            "icon": "🐱",
+            "color": "#ff6fa5",
+            "title": "Mochi, a brand new character",
+            "text": "Our mascot debuts across the Agency: in the story, the menus, and Endless Mode.",
+            "badge": "NEW CHARACTER"
           },
           {
             "icon": "📖",
             "color": "#c9a53a",
-            "title": "New story scenes featuring Mochi",
-            "text": "The Agency's narrator gets brand new scenes and dialogue starring our favorite cat."
+            "title": "A completely new story",
+            "text": "Brand new campaign narrative from start to finish, told by the Agency's narrator.",
+            "badge": "NEW CAMPAIGN"
           },
           {
             "icon": "🎮",
             "color": "#b46bff",
-            "title": "Redesigned menus and interface",
-            "text": "Agent Profile, The Ascent, and the News section — a fresh look across the whole Agency."
+            "title": "Every menu redesigned",
+            "text": "Agent Profile, The Ascent, News, and every corner of the Agency with a completely fresh look.",
+            "badge": "WHOLE AGENCY"
           },
           {
-            "icon": "⚡",
+            "icon": "🎯",
             "color": "#39d98a",
-            "title": "Improved combat, cards and gameplay",
-            "text": "16 dungeon events with ambiguous choices: pick without knowing the exact number, the way it should be.",
-            "badge": "16 EVENTS"
+            "title": "New difficulty modes",
+            "text": "Pick your challenge: Normal, Hard, or Ultra.",
+            "badge": "NORMAL · HARD · ULTRA"
+          },
+          {
+            "icon": "🎭",
+            "color": "#e05cc4",
+            "title": "Over 30 revamped events",
+            "text": "Ambiguous choices: pick without knowing the exact number, the way it should be.",
+            "badge": "30+ EVENTS"
+          },
+          {
+            "icon": "🏙️",
+            "color": "#8a7dff",
+            "title": "Act 1 and Act 2 remastered",
+            "text": "Completely renewed setting and scenery in both Acts.",
+            "badge": "2 ACTS"
           },
           {
             "icon": "🎵",
             "color": "#4fc3ff",
             "title": "New original soundtrack",
-            "text": "A dedicated music track for the Menu, every Act, and Endless Mode."
-          },
-          {
-            "icon": "🏙️",
-            "color": "#8a7dff",
-            "title": "Act 1 fully remastered",
-            "text": "Downtown's residential neighborhood now has continuous city facades and a much more alive atmosphere."
+            "text": "A dedicated music track for the Menu, every Act, and Endless Mode.",
+            "badge": "4 NEW TRACKS"
           },
           {
             "icon": "💎",
@@ -282,34 +348,46 @@
             "badge": "58 GEMS"
           },
           {
+            "icon": "🌀",
+            "color": "#39d98a",
+            "title": "Daily Climb updates",
+            "text": "New daily modifiers that shake up every run of the shared challenge.",
+            "badge": "NEW MODIFIERS"
+          },
+          {
+            "icon": "🏆",
+            "color": "#e0b23c",
+            "title": "New chest system — The Ascent",
+            "text": "Climb rank floors and claim a reward chest at every one.",
+            "badge": "CHESTS PER FLOOR"
+          },
+          {
             "icon": "🌍",
             "color": "#ffd700",
             "title": "Deeper translations",
-            "text": "Fixed dozens of texts that showed up in Spanish no matter your language — the Agency now speaks all 4 languages better."
+            "text": "Fixed dozens of texts that showed up in Spanish no matter your language.",
+            "badge": "4 LANGUAGES"
           },
           {
             "icon": "☁️",
             "color": "#5ad1ff",
             "title": "More stable cloud save",
-            "text": "Account identity fixed — your progress no longer gets lost after reinstalling or switching devices."
+            "text": "Account identity fixed — your progress no longer gets lost after reinstalling or switching devices.",
+            "badge": "MORE STABLE"
           },
           {
             "icon": "🔔",
             "color": "#ff9a3c",
             "title": "Fixed notifications",
-            "text": "Streak and pending mission reminders now arrive even with your phone idle."
+            "text": "Streak and pending mission reminders now arrive even with your phone idle.",
+            "badge": "RELIABLE REMINDERS"
           },
           {
             "icon": "⭐",
-            "color": "#e0b23c",
+            "color": "#ffb020",
             "title": "Rate the app, get coins",
-            "text": "A guaranteed reward just for trying — no strings attached to the rating you leave."
-          },
-          {
-            "icon": "🐱",
-            "color": "#ff6fa5",
-            "title": "And yes... Mochi is still causing problems!",
-            "text": "Our favorite cat keeps showing up around the menus to complicate (or brighten) your day."
+            "text": "A guaranteed reward just for trying — no strings attached to the rating you leave.",
+            "badge": "GUARANTEED REWARD"
           }
         ],
         "footerTitle": "THANKS FOR STICKING WITH US!",
@@ -425,64 +503,91 @@
       {
         "title": "NOTAS DO PATCH 2.0 — O GRANDE REWORK",
         "date": "2026-08-29",
-        "tagline": "Arte nova, Modo Endless novo, e o Mochi continua aprontando. Bem-vindo à Agência renovada!",
+        "tagline": "Arte nova, história nova, Mochi novo... tudo novo! Bem-vindo à Agência renovada.",
         "highlights": [
           {
             "icon": "🎨",
             "color": "#ff6f91",
             "title": "Estilo artístico 2D totalmente redesenhado",
-            "text": "O jogo inteiro foi reilustrado à mão com um estilo de quadrinhos muito mais caprichado e consistente do que nunca."
+            "text": "O jogo inteiro, sem exceções, foi reilustrado à mão com um estilo de quadrinhos muito mais caprichado e consistente do que nunca.",
+            "badge": "ARTE 100% NOVA"
           },
           {
             "icon": "🦸",
             "color": "#ffb020",
-            "title": "Heróis e inimigos renovados",
-            "text": "Novos retratos para vários heróis da Agência e uma atualização visual para os inimigos de cada Ato.",
-            "badge": "11 HERÓIS NOVOS"
+            "title": "Os 22 heróis redesenhados",
+            "text": "Retrato novo para cada herói da Agência, sem exceção.",
+            "badge": "22 HERÓIS"
+          },
+          {
+            "icon": "👹",
+            "color": "#e05c5c",
+            "title": "Inimigos e chefes totalmente novos",
+            "text": "O Ato 1 e o Ato 2 estreiam inimigos e chefes finais criados do zero.",
+            "badge": "ATO 1 E 2"
           },
           {
             "icon": "⚔️",
             "color": "#ff5252",
             "title": "Novas animações e efeitos visuais",
-            "text": "Novas animações de combate e efeitos visuais para que cada golpe tenha mais impacto."
+            "text": "Novas animações de combate e efeitos visuais para que cada golpe tenha mais impacto.",
+            "badge": "NOVOS VFX"
           },
           {
             "icon": "🗺️",
             "color": "#3aa0ff",
-            "title": "Modo Endless totalmente renovado",
+            "title": "Modo Endless: conteúdo totalmente novo",
             "text": "Mapa de nós totalmente ilustrado e interativo, com Mochi como seu marcador animado guiando você pelo caminho.",
-            "badge": "5 TIPOS DE NÓ NOVOS"
+            "badge": "5 TIPOS DE NÓ"
+          },
+          {
+            "icon": "🐱",
+            "color": "#ff6fa5",
+            "title": "Mochi, um personagem totalmente novo",
+            "text": "Nossa mascote estreia na Agência: aparece na história, nos menus e no Modo Endless.",
+            "badge": "PERSONAGEM NOVO"
           },
           {
             "icon": "📖",
             "color": "#c9a53a",
-            "title": "Novas cenas de história com Mochi",
-            "text": "O narrador da Agência ganha cenas e diálogos novos estrelados pelo nosso gato favorito."
+            "title": "Uma história completamente nova",
+            "text": "Nova narrativa de campanha do início ao fim, contada pelo narrador da Agência.",
+            "badge": "NOVA CAMPANHA"
           },
           {
             "icon": "🎮",
             "color": "#b46bff",
-            "title": "Menus e interface redesenhados",
-            "text": "Perfil do Agente, O Ascenso e a seção de Notícias — um visual renovado em toda a Agência."
+            "title": "Todos os menus redesenhados",
+            "text": "Perfil do Agente, O Ascenso, Notícias e cada canto da Agência com um visual totalmente novo.",
+            "badge": "AGÊNCIA INTEIRA"
           },
           {
-            "icon": "⚡",
+            "icon": "🎯",
             "color": "#39d98a",
-            "title": "Combate, cartas e jogabilidade melhorados",
-            "text": "16 eventos de masmorra com escolhas ambíguas: decida sem saber o número exato, como deve ser.",
-            "badge": "16 EVENTOS"
+            "title": "Novos modos de dificuldade",
+            "text": "Escolha seu desafio: Normal, Difícil ou Ultra.",
+            "badge": "NORMAL · DIFÍCIL · ULTRA"
+          },
+          {
+            "icon": "🎭",
+            "color": "#e05cc4",
+            "title": "Mais de 30 eventos renovados",
+            "text": "Escolhas ambíguas: decida sem saber o número exato, como deve ser.",
+            "badge": "30+ EVENTOS"
+          },
+          {
+            "icon": "🏙️",
+            "color": "#8a7dff",
+            "title": "Ato 1 e Ato 2 remasterizados",
+            "text": "Ambientação e cenários completamente renovados em ambos os Atos.",
+            "badge": "2 ATOS"
           },
           {
             "icon": "🎵",
             "color": "#4fc3ff",
             "title": "Nova trilha sonora original",
-            "text": "Uma faixa musical própria para o Menu, cada Ato e o Modo Endless."
-          },
-          {
-            "icon": "🏙️",
-            "color": "#8a7dff",
-            "title": "Ato 1 totalmente remasterizado",
-            "text": "O bairro residencial do Centro Urbano agora tem fachadas urbanas contínuas e uma ambientação muito mais viva."
+            "text": "Uma faixa musical própria para o Menu, cada Ato e o Modo Endless.",
+            "badge": "4 FAIXAS NOVAS"
           },
           {
             "icon": "💎",
@@ -492,34 +597,46 @@
             "badge": "58 GEMAS"
           },
           {
+            "icon": "🌀",
+            "color": "#39d98a",
+            "title": "Novidades no Daily Climb",
+            "text": "Novos modificadores diários que renovam cada partida do desafio compartilhado.",
+            "badge": "NOVOS MODIFICADORES"
+          },
+          {
+            "icon": "🏆",
+            "color": "#e0b23c",
+            "title": "Novo sistema de baús — O Ascenso",
+            "text": "Suba andares de patente e resgate um baú de recompensa em cada um.",
+            "badge": "BAÚS POR ANDAR"
+          },
+          {
             "icon": "🌍",
             "color": "#ffd700",
             "title": "Traduções reforçadas",
-            "text": "Corrigidas dezenas de textos que apareciam em espanhol mesmo jogando em outro idioma — a Agência agora fala melhor os 4 idiomas."
+            "text": "Corrigidas dezenas de textos que apareciam em espanhol mesmo jogando em outro idioma.",
+            "badge": "4 IDIOMAS"
           },
           {
             "icon": "☁️",
             "color": "#5ad1ff",
             "title": "Salvamento na nuvem mais estável",
-            "text": "Identidade de conta corrigida — seu progresso não se perde mais ao reinstalar ou trocar de dispositivo."
+            "text": "Identidade de conta corrigida — seu progresso não se perde mais ao reinstalar ou trocar de dispositivo.",
+            "badge": "MAIS ESTÁVEL"
           },
           {
             "icon": "🔔",
             "color": "#ff9a3c",
             "title": "Notificações corrigidas",
-            "text": "Os avisos de sequência e missões pendentes agora chegam mesmo com o celular em repouso."
+            "text": "Os avisos de sequência e missões pendentes agora chegam mesmo com o celular em repouso.",
+            "badge": "LEMBRETES CONFIÁVEIS"
           },
           {
             "icon": "⭐",
-            "color": "#e0b23c",
+            "color": "#ffb020",
             "title": "Avalie o app e ganhe moedas",
-            "text": "Recompensa garantida só por tentar — sem nenhuma condição sobre a nota que você deixar."
-          },
-          {
-            "icon": "🐱",
-            "color": "#ff6fa5",
-            "title": "E sim... o Mochi continua aprontando!",
-            "text": "Nosso gato favorito continua aparecendo pelos menus para complicar (ou alegrar) o seu dia."
+            "text": "Recompensa garantida só por tentar — sem nenhuma condição sobre a nota que você deixar.",
+            "badge": "RECOMPENSA GARANTIDA"
           }
         ],
         "footerTitle": "OBRIGADO POR CONTINUAR CONOSCO!",
@@ -635,64 +752,91 @@
       {
         "title": "패치 노트 2.0 — 대규모 리워크",
         "date": "2026-08-29",
-        "tagline": "새로운 아트, 새로운 엔드리스 모드, 그리고 여전히 말썽쟁이인 모치. 새로워진 에이전시에 오신 것을 환영합니다!",
+        "tagline": "새로운 아트, 새로운 스토리, 새로운 모치... 모든 것이 새로워졌습니다! 새로워진 에이전시에 오신 것을 환영합니다.",
         "highlights": [
           {
             "icon": "🎨",
             "color": "#ff6f91",
-            "title": "완전히 새로워진 2D 손그림 아트 스타일",
-            "text": "게임 전체가 손으로 다시 그려져, 그 어느 때보다 정교하고 일관된 만화 스타일로 재탄생했습니다."
+            "title": "완전히 새로워진 2D 아트 스타일",
+            "text": "예외 없이 게임 전체가 손으로 다시 그려져, 그 어느 때보다 정교하고 일관된 만화 스타일로 재탄생했습니다.",
+            "badge": "아트 100% 새로움"
           },
           {
             "icon": "🦸",
             "color": "#ffb020",
-            "title": "히어로와 적 캐릭터 리디자인",
-            "text": "에이전시의 여러 히어로가 새로운 초상화를 얻었고, 각 액트의 적들도 비주얼이 업그레이드되었습니다.",
-            "badge": "신규 히어로 11명"
+            "title": "히어로 22명 전원 리디자인",
+            "text": "에이전시의 모든 히어로가 예외 없이 새로운 초상화를 얻었습니다.",
+            "badge": "히어로 22명"
+          },
+          {
+            "icon": "👹",
+            "color": "#e05c5c",
+            "title": "완전히 새로운 적과 보스",
+            "text": "액트 1과 액트 2 모두 처음부터 새로 만든 적과 최종 보스가 등장합니다.",
+            "badge": "액트 1 & 2"
           },
           {
             "icon": "⚔️",
             "color": "#ff5252",
             "title": "새로운 애니메이션과 이펙트",
-            "text": "새로운 전투 애니메이션과 비주얼 이펙트로 모든 타격에 임팩트가 더해졌습니다."
+            "text": "새로운 전투 애니메이션과 비주얼 이펙트로 모든 타격에 임팩트가 더해졌습니다.",
+            "badge": "신규 이펙트"
           },
           {
             "icon": "🗺️",
             "color": "#3aa0ff",
-            "title": "완전히 새로워진 엔드리스 모드",
+            "title": "엔드리스 모드: 완전히 새로운 콘텐츠",
             "text": "완전히 일러스트화된 인터랙티브 노드 맵이 등장! 모치가 애니메이션 마커가 되어 길을 안내합니다.",
-            "badge": "신규 노드 5종"
+            "badge": "노드 5종"
+          },
+          {
+            "icon": "🐱",
+            "color": "#ff6fa5",
+            "title": "완전히 새로운 캐릭터, 모치",
+            "text": "우리의 마스코트가 에이전시에 데뷔합니다: 스토리, 메뉴, 엔드리스 모드 곳곳에 등장합니다.",
+            "badge": "신규 캐릭터"
           },
           {
             "icon": "📖",
             "color": "#c9a53a",
-            "title": "모치가 등장하는 새로운 스토리 장면",
-            "text": "에이전시 내레이터에 우리의 인기 고양이가 주인공인 새로운 장면과 대사가 추가되었습니다."
+            "title": "완전히 새로운 스토리",
+            "text": "에이전시 내레이터가 들려주는 처음부터 끝까지 새로운 캠페인 서사.",
+            "badge": "신규 캠페인"
           },
           {
             "icon": "🎮",
             "color": "#b46bff",
-            "title": "메뉴와 인터페이스 리디자인",
-            "text": "요원 프로필, 더 어센트, 뉴스 섹션까지 — 에이전시 전체가 새로운 모습으로 단장했습니다."
+            "title": "모든 메뉴 리디자인",
+            "text": "요원 프로필, 더 어센트, 뉴스까지 — 에이전시의 모든 구석이 완전히 새로운 모습입니다.",
+            "badge": "에이전시 전체"
           },
           {
-            "icon": "⚡",
+            "icon": "🎯",
             "color": "#39d98a",
-            "title": "전투, 카드, 게임플레이 개선",
-            "text": "16개의 던전 이벤트가 모호한 선택지를 제공합니다: 정확한 수치를 모른 채 선택하는 것이 원래 재미죠.",
-            "badge": "이벤트 16종"
+            "title": "새로운 난이도 모드",
+            "text": "노멀, 하드, 울트라 중에서 도전을 선택하세요.",
+            "badge": "노멀 · 하드 · 울트라"
+          },
+          {
+            "icon": "🎭",
+            "color": "#e05cc4",
+            "title": "30개 이상의 이벤트 리뉴얼",
+            "text": "모호한 선택지: 정확한 수치를 모른 채 선택하는 것이 원래 재미죠.",
+            "badge": "이벤트 30종+"
+          },
+          {
+            "icon": "🏙️",
+            "color": "#8a7dff",
+            "title": "액트 1, 액트 2 리마스터",
+            "text": "두 액트 모두 배경과 무대가 완전히 새로워졌습니다.",
+            "badge": "액트 2개"
           },
           {
             "icon": "🎵",
             "color": "#4fc3ff",
             "title": "새로운 오리지널 사운드트랙",
-            "text": "메뉴, 각 액트, 엔드리스 모드마다 전용 음악 트랙이 추가되었습니다."
-          },
-          {
-            "icon": "🏙️",
-            "color": "#8a7dff",
-            "title": "액트 1 완전 리마스터",
-            "text": "센트럴 다운타운의 주거 지역이 연속된 도시 파사드와 훨씬 생동감 있는 분위기로 재탄생했습니다."
+            "text": "메뉴, 각 액트, 엔드리스 모드마다 전용 음악 트랙이 추가되었습니다.",
+            "badge": "신규 트랙 4개"
           },
           {
             "icon": "💎",
@@ -702,34 +846,46 @@
             "badge": "젬 58종"
           },
           {
+            "icon": "🌀",
+            "color": "#39d98a",
+            "title": "데일리 클라임 업데이트",
+            "text": "매번 도전을 새롭게 만드는 새로운 데일리 모디파이어가 추가되었습니다.",
+            "badge": "신규 모디파이어"
+          },
+          {
+            "icon": "🏆",
+            "color": "#e0b23c",
+            "title": "새로운 상자 시스템 — 더 어센트",
+            "text": "계급 층을 오르며 각 층마다 보상 상자를 받으세요.",
+            "badge": "층별 보상 상자"
+          },
+          {
             "icon": "🌍",
             "color": "#ffd700",
             "title": "번역 품질 대폭 개선",
-            "text": "어떤 언어로 플레이해도 스페인어로 표시되던 수십 개의 텍스트를 수정 — 에이전시가 4개 언어를 더 완벽하게 지원합니다."
+            "text": "어떤 언어로 플레이해도 스페인어로 표시되던 수십 개의 텍스트를 수정했습니다.",
+            "badge": "4개 언어"
           },
           {
             "icon": "☁️",
             "color": "#5ad1ff",
             "title": "더 안정적인 클라우드 저장",
-            "text": "계정 식별 문제를 수정 — 재설치하거나 기기를 바꿔도 더 이상 진행 상황을 잃지 않습니다."
+            "text": "계정 식별 문제를 수정 — 재설치하거나 기기를 바꿔도 더 이상 진행 상황을 잃지 않습니다.",
+            "badge": "안정성 강화"
           },
           {
             "icon": "🔔",
             "color": "#ff9a3c",
             "title": "알림 문제 수정",
-            "text": "연속 출석과 남은 미션 알림이 이제 휴대폰이 절전 상태여도 정상적으로 도착합니다."
+            "text": "연속 출석과 남은 미션 알림이 이제 휴대폰이 절전 상태여도 정상적으로 도착합니다.",
+            "badge": "신뢰할 수 있는 알림"
           },
           {
             "icon": "⭐",
-            "color": "#e0b23c",
+            "color": "#ffb020",
             "title": "앱 평가하고 코인 받기",
-            "text": "시도하는 것만으로 보상 확정 — 남기는 평점 내용과는 아무 상관이 없습니다."
-          },
-          {
-            "icon": "🐱",
-            "color": "#ff6fa5",
-            "title": "그리고... 모치는 여전히 말썽쟁이입니다!",
-            "text": "우리의 인기 고양이가 메뉴 곳곳에 계속 나타나 하루를 더 복잡하게 (혹은 즐겁게) 만듭니다."
+            "text": "시도하는 것만으로 보상 확정 — 남기는 평점 내용과는 아무 상관이 없습니다.",
+            "badge": "보상 확정"
           }
         ],
         "footerTitle": "함께해 주셔서 감사합니다!",

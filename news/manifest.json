@@ -1,7 +1,72 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "news": {
     "es": [
+      {
+        "title": "PARCHE 2.1 — LOS DESAFÍOS",
+        "date": "2026-09-03",
+        "tagline": "71 retos nuevos, un Endless que por fin exige estrategia de verdad, un Lucky Monk que ha descubierto que los golpes también existen, y un Hard/Ultra que ha dejado de fingir que era solo decoración.",
+        "highlights": [
+          {
+            "icon": "🏆",
+            "color": "#e0b23c",
+            "title": "Nueva pestaña: DESAFÍOS",
+            "text": "71 logros para demostrar, al menos a ti mismo, que le has dedicado a esta Agencia más horas de las que admitirías en voz alta. Recompensa real en oro y experiencia — nada de badges decorativos cogiendo polvo.",
+            "badge": "71 DESAFÍOS"
+          },
+          {
+            "icon": "🎁",
+            "color": "#39d98a",
+            "title": "Recompensas que se reclaman, no se regalan",
+            "text": "Al completar un desafío se queda esperando como un cofre cerrado hasta que lo tocas. No es que no confiemos en ti, es que sabemos que se te olvidaría mirar.",
+            "badge": "COMO UN COFRE"
+          },
+          {
+            "icon": "🖼️",
+            "color": "#b46bff",
+            "title": "12 avatares exclusivos",
+            "text": "Completa TODOS los desafíos de una categoría y desbloquea su avatar especial. El de completar la pestaña entera es solo para quien ya no tiene remedio.",
+            "badge": "12 AVATARES"
+          },
+          {
+            "icon": "🌀",
+            "color": "#3aa0ff",
+            "title": "Endless: elige tu propio Pacto de la Vuelta",
+            "text": "Antes de cada vuelta, decides qué modificadores apilar — cuanto más pese tu pacto, mayor la recompensa si sobrevives. 3 modificadores nuevos exclusivos (Élites en Enjambre, Racionamiento, Sequía de Reliquias), desbloqueables a medida que superas más vueltas. La responsabilidad de complicarte la vida, ahora es tuya.",
+            "badge": "9 MODIFICADORES"
+          },
+          {
+            "icon": "☘️",
+            "color": "#2ee6a6",
+            "title": "Lucky Monk ya sabe pegar",
+            "text": "Meses repartiendo monedas como un cajero automático con suerte, y resulta que su Lanza Temporal también podía hacer 90 de daño y aplicar Congelación. Sigue sin cobrar comisión.",
+            "badge": "LUCKY MONK"
+          },
+          {
+            "icon": "🔥",
+            "color": "#e05c5c",
+            "title": "Hard y Ultra, más serios que nunca",
+            "text": "Subir la dificultad solo con más vida en los enemigos era demasiado fácil de ignorar. Ahora Hard y Ultra también meten filas extra de rivales en cada combate — el aguante ya no basta, hay que jugar mejor.",
+            "badge": "MÁS DIFÍCIL"
+          },
+          {
+            "icon": "📺",
+            "color": "#ffb020",
+            "title": "Bono de anuncio mejorado",
+            "text": "Sube de 15 a 35 monedas y ahora tienes 2 usos sueltos por ciclo en vez de 1. No es generosidad repentina, es que ver anuncios también es jugar, según nuestro departamento de marketing (que somos nosotros mismos).",
+            "badge": "35 MONEDAS · 2 USOS"
+          },
+          {
+            "icon": "🃏",
+            "color": "#8a7dff",
+            "title": "Cartas fantasma exterminadas",
+            "text": "Dos cartas de una versión tan vieja del juego que ni arte propio tenían (emoji de relleno incluido) ya no pueden salirte en la tienda ni al subir de nivel. Descansen en paz.",
+            "badge": "FIX"
+          }
+        ],
+        "footerTitle": "¡A POR LOS 71!",
+        "footerText": "El Archivo sigue funcionando, la Agencia sigue en pie de milagro, y Mochi sigue sin pagar alquiler. Ahora tienes 71 razones nuevas para no soltar esta Agencia — y bastantes menos para confiarte en Ultra. Gracias por seguir jugando. ❤️ — De un desarrollador en solitario con un gran sueño (y ninguna intención de soltarlo)."
+      },
       {
         "title": "PARCHE 2.0 — EL GRAN REWORK",
         "date": "2026-08-29",
@@ -252,6 +317,71 @@
     ],
     "en": [
       {
+        "title": "PATCH 2.1 — THE CHALLENGES",
+        "date": "2026-09-03",
+        "tagline": "71 new challenges, an Endless mode that finally demands real strategy, a Lucky Monk who discovered that punches exist too, and a Hard/Ultra that stopped pretending it was just decoration.",
+        "highlights": [
+          {
+            "icon": "🏆",
+            "color": "#e0b23c",
+            "title": "New tab: CHALLENGES",
+            "text": "71 achievements to prove, at least to yourself, that you've put more hours into this Agency than you'd admit out loud. Real gold and account XP as reward — no decorative badges collecting dust.",
+            "badge": "71 CHALLENGES"
+          },
+          {
+            "icon": "🎁",
+            "color": "#39d98a",
+            "title": "Rewards you claim, not receive",
+            "text": "Finish a challenge and it waits for you like a locked chest until you tap it. It's not that we don't trust you — we just know you'd forget to check.",
+            "badge": "LIKE A CHEST"
+          },
+          {
+            "icon": "🖼️",
+            "color": "#b46bff",
+            "title": "12 exclusive avatars",
+            "text": "Complete EVERY challenge in a category to unlock its special avatar. The one for finishing the whole tab is only for those beyond help.",
+            "badge": "12 AVATARS"
+          },
+          {
+            "icon": "🌀",
+            "color": "#3aa0ff",
+            "title": "Endless: pick your own Loop Pact",
+            "text": "Before each loop, choose which modifiers to stack — the heavier your pact, the bigger the reward if you survive. 3 brand-new exclusive modifiers (Swarming Elites, Rationing, Treasure Drought), unlocked as you clear more loops. Making your own life harder is now entirely on you.",
+            "badge": "9 MODIFIERS"
+          },
+          {
+            "icon": "☘️",
+            "color": "#2ee6a6",
+            "title": "Lucky Monk can finally fight",
+            "text": "Months spent handing out coins like a lucky ATM, and it turns out his Temporal Lance could also deal 90 damage and apply Freeze. Still charges no commission.",
+            "badge": "LUCKY MONK"
+          },
+          {
+            "icon": "🔥",
+            "color": "#e05c5c",
+            "title": "Hard and Ultra mean business now",
+            "text": "Raising difficulty with just more enemy HP was too easy to ignore. Hard and Ultra now also throw extra rows of enemies into every fight — surviving isn't enough anymore, you actually have to play better.",
+            "badge": "HARDER"
+          },
+          {
+            "icon": "📺",
+            "color": "#ffb020",
+            "title": "Better ad bonus",
+            "text": "Up from 15 to 35 coins, and now you get 2 loose uses per cycle instead of 1. It's not sudden generosity — watching ads counts as playing too, according to our marketing department (which is also us).",
+            "badge": "35 COINS · 2 USES"
+          },
+          {
+            "icon": "🃏",
+            "color": "#8a7dff",
+            "title": "Ghost cards exterminated",
+            "text": "Two cards from a version of the game so old they never even got real art (placeholder emoji included) can no longer show up in the shop or on level-up. Rest in peace.",
+            "badge": "FIX"
+          }
+        ],
+        "footerTitle": "GO GET ALL 71!",
+        "footerText": "The Archive is still running, the Agency is still standing by some miracle, and Mochi still hasn't paid rent. You've now got 71 new reasons not to put this Agency down — and quite a few fewer reasons to get comfortable in Ultra. Thanks for still playing. ❤️ — From a solo developer with a big dream (and no intention of letting go of it)."
+      },
+      {
         "title": "PATCH NOTES 2.0 — THE BIG REWORK",
         "date": "2026-08-29",
         "tagline": "New art, new story, new Mochi... everything is new! Welcome to the renewed Agency.",
@@ -501,6 +631,71 @@
     ],
     "pt": [
       {
+        "title": "PATCH 2.1 — OS DESAFIOS",
+        "date": "2026-09-03",
+        "tagline": "71 novos desafios, um modo Endless que finalmente exige estrategia de verdade, um Lucky Monk que descobriu que golpes tambem existem, e um Hard/Ultra que parou de fingir que era so decoracao.",
+        "highlights": [
+          {
+            "icon": "🏆",
+            "color": "#e0b23c",
+            "title": "Nova aba: DESAFIOS",
+            "text": "71 conquistas para provar, pelo menos para voce mesmo, que dedicou a esta Agencia mais horas do que admitiria em voz alta. Recompensa real em ouro e XP de conta — nada de emblemas decorativos juntando poeira.",
+            "badge": "71 DESAFIOS"
+          },
+          {
+            "icon": "🎁",
+            "color": "#39d98a",
+            "title": "Recompensas que voce resgata, nao que recebe de graca",
+            "text": "Ao completar um desafio, ele fica esperando como um baú fechado até você tocar nele. Não é que a gente não confie em você, é que sabemos que você esqueceria de olhar.",
+            "badge": "COMO UM BAÚ"
+          },
+          {
+            "icon": "🖼️",
+            "color": "#b46bff",
+            "title": "12 avatares exclusivos",
+            "text": "Complete TODOS os desafios de uma categoria e desbloqueie seu avatar especial. O de completar a aba inteira é só para quem já não tem mais jeito.",
+            "badge": "12 AVATARES"
+          },
+          {
+            "icon": "🌀",
+            "color": "#3aa0ff",
+            "title": "Endless: escolha seu proprio Pacto do Loop",
+            "text": "Antes de cada loop, você decide quais modificadores empilhar — quanto mais pesado o pacto, maior a recompensa se sobreviver. 3 modificadores novos exclusivos (Elites em Enxame, Racionamento, Seca de Relíquias), desbloqueados conforme você supera mais loops. A responsabilidade de complicar a própria vida agora é sua.",
+            "badge": "9 MODIFICADORES"
+          },
+          {
+            "icon": "☘️",
+            "color": "#2ee6a6",
+            "title": "Lucky Monk finalmente sabe lutar",
+            "text": "Meses distribuindo moedas feito um caixa eletrônico sortudo, e descobrimos que sua Lança Temporal também causava 90 de dano e aplicava Congelamento. Continua sem cobrar comissão.",
+            "badge": "LUCKY MONK"
+          },
+          {
+            "icon": "🔥",
+            "color": "#e05c5c",
+            "title": "Hard e Ultra ficaram mais sérios",
+            "text": "Aumentar a dificuldade só com mais vida nos inimigos era fácil demais de ignorar. Agora Hard e Ultra também colocam fileiras extras de inimigos em cada combate — aguentar não basta mais, é preciso jogar melhor.",
+            "badge": "MAIS DIFÍCIL"
+          },
+          {
+            "icon": "📺",
+            "color": "#ffb020",
+            "title": "Bônus de anúncio melhorado",
+            "text": "Sobe de 15 para 35 moedas, e agora você tem 2 usos avulsos por ciclo em vez de 1. Não é generosidade repentina — assistir anúncios também conta como jogar, segundo nosso departamento de marketing (que somos nós mesmos).",
+            "badge": "35 MOEDAS · 2 USOS"
+          },
+          {
+            "icon": "🃏",
+            "color": "#8a7dff",
+            "title": "Cartas fantasmas exterminadas",
+            "text": "Duas cartas de uma versão do jogo tão antiga que nem arte própria tinham (emoji de preenchimento incluído) não podem mais aparecer na loja nem ao subir de nível. Descansem em paz.",
+            "badge": "FIX"
+          }
+        ],
+        "footerTitle": "VAI ATRÁS DOS 71!",
+        "footerText": "O Arquivo continua funcionando, a Agência continua de pé por milagre, e o Mochi continua sem pagar aluguel. Agora você tem 71 motivos novos para não largar esta Agência — e bem menos motivos para relaxar no Ultra. Obrigado por continuar jogando. ❤️ — De um desenvolvedor solo com um grande sonho (e nenhuma intenção de desistir dele)."
+      },
+      {
         "title": "NOTAS DO PATCH 2.0 — O GRANDE REWORK",
         "date": "2026-08-29",
         "tagline": "Arte nova, história nova, Mochi novo... tudo novo! Bem-vindo à Agência renovada.",
@@ -749,6 +944,71 @@
       }
     ],
     "ko": [
+      {
+        "title": "패치 2.1 — 도전과제",
+        "date": "2026-09-03",
+        "tagline": "새로운 도전과제 71개, 드디어 제대로 된 전략을 요구하는 엔드리스, 주먹도 쓸 줄 안다는 걸 깨달은 럭키 몽크, 그리고 더는 장식인 척하지 않는 하드/울트라.",
+        "highlights": [
+          {
+            "icon": "🏆",
+            "color": "#e0b23c",
+            "title": "새로운 탭: 도전과제",
+            "text": "적어도 스스로에게는, 이 에이전시에 입 밖으로 인정하기 힘들 만큼 많은 시간을 쏟았다는 걸 증명할 업적 71개. 진짜 골드와 계정 경험치가 보상입니다 — 먼지만 쌓이는 장식용 배지가 아닙니다.",
+            "badge": "도전과제 71개"
+          },
+          {
+            "icon": "🎁",
+            "color": "#39d98a",
+            "title": "그냥 받는 게 아니라 직접 수령하는 보상",
+            "text": "도전과제를 완료하면 탭하기 전까지 잠긴 보물상자처럼 기다립니다. 당신을 못 믿어서가 아니라, 확인하는 걸 잊어버릴 걸 알아서입니다.",
+            "badge": "보물상자처럼"
+          },
+          {
+            "icon": "🖼️",
+            "color": "#b46bff",
+            "title": "전용 아바타 12개",
+            "text": "한 카테고리의 도전과제를 전부 완료하면 특별 아바타가 해금됩니다. 탭 전체를 완료해야 얻는 아바타는 이제 답이 없는 분들만을 위한 것입니다.",
+            "badge": "아바타 12개"
+          },
+          {
+            "icon": "🌀",
+            "color": "#3aa0ff",
+            "title": "엔드리스: 나만의 루프 팩트 선택",
+            "text": "매 루프를 시작하기 전, 어떤 모디파이어를 쌓을지 직접 정하세요 — 팩트가 무거울수록 생존 시 보상도 커집니다. 신규 전용 모디파이어 3종(엘리트 무리, 배급제, 보물 가뭄)은 루프를 더 클리어할수록 해금됩니다. 스스로의 인생을 힘들게 만드는 책임은, 이제 당신 몫입니다.",
+            "badge": "모디파이어 9종"
+          },
+          {
+            "icon": "☘️",
+            "color": "#2ee6a6",
+            "title": "럭키 몽크, 드디어 싸울 줄 안다",
+            "text": "몇 달 동안 운 좋은 현금인출기처럼 코인만 나눠주더니, 알고 보니 그의 시간의 창은 90의 피해를 입히고 빙결까지 걸 수 있었습니다. 수수료는 여전히 안 받습니다.",
+            "badge": "럭키 몽크"
+          },
+          {
+            "icon": "🔥",
+            "color": "#e05c5c",
+            "title": "하드와 울트라, 이제 진심입니다",
+            "text": "적 체력만 늘려서 난이도를 올리는 건 무시하기 너무 쉬웠습니다. 이제 하드와 울트라는 전투마다 적 대열도 추가로 투입합니다 — 버티는 것만으로는 부족합니다, 이제는 더 잘 플레이해야 합니다.",
+            "badge": "더 어려워짐"
+          },
+          {
+            "icon": "📺",
+            "color": "#ffb020",
+            "title": "광고 보상 개선",
+            "text": "15코인에서 35코인으로 인상, 그리고 이제 주기당 1회가 아닌 2회를 따로 사용할 수 있습니다. 갑자기 관대해진 게 아니라, 저희 마케팅팀(사실 저희 본인입니다) 말로는 광고 시청도 플레이의 일부라서 그렇습니다.",
+            "badge": "35코인 · 2회"
+          },
+          {
+            "icon": "🃏",
+            "color": "#8a7dff",
+            "title": "유령 카드 퇴치",
+            "text": "제대로 된 아트워크조차 없었던(이모지로 때운) 아주 오래된 버전의 카드 2장이 이제 상점이나 레벨업에서 더 이상 등장하지 않습니다. 편히 잠드소서.",
+            "badge": "수정"
+          }
+        ],
+        "footerTitle": "71개 전부 도전해보세요!",
+        "footerText": "아카이브는 계속 작동 중이고, 에이전시는 기적적으로 여전히 건재하며, 모치는 여전히 월세를 내지 않습니다. 이제 이 에이전시를 손에서 놓지 못할 71가지 새로운 이유가 생겼습니다 — 그리고 울트라에서 방심하지 말아야 할 이유는 훨씬 줄었습니다. 계속 플레이해 주셔서 감사합니다. ❤️ — 큰 꿈을 가진 1인 개발자 드림 (포기할 생각은 전혀 없습니다)."
+      },
       {
         "title": "패치 노트 2.0 — 대규모 리워크",
         "date": "2026-08-29",

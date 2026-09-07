@@ -1,7 +1,72 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "news": {
     "es": [
+      {
+        "title": "PARCHE 2.2 — CARA NUEVA, PUÑOS DE VERDAD",
+        "date": "2026-09-07",
+        "tagline": "Todas las cartas rehechas de arriba a abajo, enemigos que por fin reaccionan cuando les pegas, un Endless con más carne y menos relleno, y una lista de cuelgues que ya no te la va a jugar en el peor momento.",
+        "highlights": [
+          {
+            "icon": "🎨",
+            "color": "#ff6f91",
+            "title": "Rework visual de las 191 cartas",
+            "text": "Ninguna carta se ha salvado: arte nuevo de arriba a abajo, pensado para encajar con el tono de cómic absurdo de la Agencia y no con lo que a mí me salió bien a la primera hace un año.",
+            "badge": "191 CARTAS"
+          },
+          {
+            "icon": "🎬",
+            "color": "#3aa0ff",
+            "title": "Cada carta tiene animación propia",
+            "text": "Sí, cada una. Algunas todavía están en fase de 'se mueve pero no estoy seguro de que deba moverse así' — considéralas beta con estilo.",
+            "badge": "EN REVISIÓN"
+          },
+          {
+            "icon": "💥",
+            "color": "#e05c5c",
+            "title": "Efectos visuales nuevos en combate",
+            "text": "Enemigos, estados alterados y barras de vida ahora se notan — literalmente — cuando pasa algo. Resulta que era más fácil jugar cuando el juego se molestaba en avisarte.",
+            "badge": "MÁS CLARO"
+          },
+          {
+            "icon": "⚖️",
+            "color": "#e0b23c",
+            "title": "Retoques de coste y efecto en varias cartas",
+            "text": "Algunas cartas cobraban de más por hacer de menos, y viceversa. Ajustado con la delicadeza de quien sabe que la comunidad tiene memoria.",
+            "badge": "BALANCE"
+          },
+          {
+            "icon": "🛠️",
+            "color": "#2ee6a6",
+            "title": "Temporada de caza de cuelgues",
+            "text": "Varios bloqueos y congelaciones detectados y liquidados. Si el juego se te ha quedado mirando fijamente sin hacer nada, esa mirada no debería repetirse (probablemente).",
+            "badge": "FIX"
+          },
+          {
+            "icon": "🌀",
+            "color": "#b46bff",
+            "title": "Endless con más contenido y más variado",
+            "text": "Más cosas con las que encontrarte, más formas de que una vuelta se sienta distinta a la anterior. Cavar hondo debería seguir doliendo — ahora solo duele de maneras nuevas.",
+            "badge": "MÁS ENDLESS"
+          },
+          {
+            "icon": "⚔️",
+            "color": "#ffb020",
+            "title": "El combate se mueve mejor",
+            "text": "Las muertes de los enemigos ahora tienen algo de espectáculo en vez de simplemente desaparecer con cara de circunstancias. Detalles pequeños, de los que sí se notan.",
+            "badge": "MÁS VIVO"
+          },
+          {
+            "icon": "✨",
+            "color": "#8a7dff",
+            "title": "Y más",
+            "text": "Cosas que se arreglaron sin que nadie las pidiera, cosas que se pulieron sin que nadie las note, y al menos un cambio que ni yo recuerdo ya por qué hice. Así es desarrollar esto en solitario.",
+            "badge": "ETCÉTERA"
+          }
+        ],
+        "footerTitle": "GRACIAS POR SEGUIR AQUÍ",
+        "footerText": "Ni cartas ni enemigos se libraron esta vez, y el Archivo ha terminado con bastantes menos cuelgues de los que tenía al empezar. Mochi sigue vivo, sigue sin pagar alquiler, y sigue siendo la criatura mejor pagada del estudio (cero pesetas, moral altísima). Gracias por darle a esta Agencia más caña de la que merece. ❤️ — De un desarrollador en solitario con un gran sueño (y cada vez menos cartas sin arte propio)."
+      },
       {
         "title": "PARCHE 2.1 — LOS DESAFÍOS",
         "date": "2026-09-03",
@@ -317,6 +382,71 @@
     ],
     "en": [
       {
+        "title": "PATCH 2.2 — NEW FACE, REAL FISTS",
+        "date": "2026-09-07",
+        "tagline": "Every card redone from scratch, enemies that finally react when you hit them, an Endless with more meat and less filler, and a bug list that's not going to ambush you at the worst possible moment anymore.",
+        "highlights": [
+          {
+            "icon": "🎨",
+            "color": "#ff6f91",
+            "title": "Visual rework of all 191 cards",
+            "text": "Not a single card was spared: brand new art top to bottom, made to actually match the Agency's absurd comic-book tone instead of whatever I got right on the first try a year ago.",
+            "badge": "191 CARDS"
+          },
+          {
+            "icon": "🎬",
+            "color": "#3aa0ff",
+            "title": "Every card now has its own animation",
+            "text": "Yes, every single one. A few are still in 'it moves, but I'm not 100% sure it should move like that' territory — think of them as beta with style.",
+            "badge": "IN REVIEW"
+          },
+          {
+            "icon": "💥",
+            "color": "#e05c5c",
+            "title": "New combat visual effects",
+            "text": "Enemies, status effects, and health bars now actually show — visibly — when something happens. Turns out the game was easier to read when it bothered to tell you things.",
+            "badge": "CLEARER"
+          },
+          {
+            "icon": "⚖️",
+            "color": "#e0b23c",
+            "title": "Cost and effect tweaks on several cards",
+            "text": "Some cards were charging too much for doing too little, and vice versa. Fixed with the delicacy of someone who knows the community has a long memory.",
+            "badge": "BALANCE"
+          },
+          {
+            "icon": "🛠️",
+            "color": "#2ee6a6",
+            "title": "Freeze-hunting season",
+            "text": "Several hangs and freezes found and put down. If the game ever just stared at you doing nothing, that particular stare shouldn't happen again (probably).",
+            "badge": "FIX"
+          },
+          {
+            "icon": "🌀",
+            "color": "#b46bff",
+            "title": "Endless with more content, more variety",
+            "text": "More things to run into, more ways for one loop to feel different from the last. Digging deep should still hurt — now it just hurts in new ways.",
+            "badge": "MORE ENDLESS"
+          },
+          {
+            "icon": "⚔️",
+            "color": "#ffb020",
+            "title": "Combat moves better",
+            "text": "Enemy deaths now come with a bit of showmanship instead of just vanishing looking mildly inconvenienced. Small details, the kind people actually notice.",
+            "badge": "MORE ALIVE"
+          },
+          {
+            "icon": "✨",
+            "color": "#8a7dff",
+            "title": "And more",
+            "text": "Things fixed that nobody asked about, things polished that nobody will notice, and at least one change I honestly don't remember the reason for anymore. That's solo development for you.",
+            "badge": "ETC."
+          }
+        ],
+        "footerTitle": "THANKS FOR STILL BEING HERE",
+        "footerText": "No card or enemy walked away from this one unscathed, and the Archive ended up with quite a few less crashes than it started with. Mochi is still alive, still hasn't paid rent, and is still the best-paid creature in the studio (zero coins, sky-high morale). Thanks for giving this Agency more grief than it deserves. ❤️ — From a solo developer with a big dream (and fewer and fewer cards left without real art)."
+      },
+      {
         "title": "PATCH 2.1 — THE CHALLENGES",
         "date": "2026-09-03",
         "tagline": "71 new challenges, an Endless mode that finally demands real strategy, a Lucky Monk who discovered that punches exist too, and a Hard/Ultra that stopped pretending it was just decoration.",
@@ -631,6 +761,71 @@
     ],
     "pt": [
       {
+        "title": "PATCH 2.2 — CARA NOVA, SOCOS DE VERDADE",
+        "date": "2026-09-07",
+        "tagline": "Todas as cartas refeitas do zero, inimigos que finalmente reagem quando voce acerta, um Endless com mais conteudo e menos enchimento, e uma lista de travamentos que nao vai mais te emboscar na pior hora.",
+        "highlights": [
+          {
+            "icon": "🎨",
+            "color": "#ff6f91",
+            "title": "Rework visual das 191 cartas",
+            "text": "Nenhuma carta escapou: arte nova de cima a baixo, pensada para combinar com o tom cômico e absurdo da Agência, e não com o que deu certo de primeira há um ano.",
+            "badge": "191 CARTAS"
+          },
+          {
+            "icon": "🎬",
+            "color": "#3aa0ff",
+            "title": "Cada carta agora tem sua própria animação",
+            "text": "Sim, cada uma. Algumas ainda estão na fase 'se mexe, mas não tenho certeza se deveria se mexer assim' — considere-as beta com estilo.",
+            "badge": "EM REVISÃO"
+          },
+          {
+            "icon": "💥",
+            "color": "#e05c5c",
+            "title": "Novos efeitos visuais de combate",
+            "text": "Inimigos, status e barras de vida agora mostram — de verdade — quando algo acontece. Aparentemente era mais fácil jogar quando o jogo se dava ao trabalho de avisar.",
+            "badge": "MAIS CLARO"
+          },
+          {
+            "icon": "⚖️",
+            "color": "#e0b23c",
+            "title": "Ajustes de custo e efeito em várias cartas",
+            "text": "Algumas cartas cobravam demais por fazer de menos, e vice-versa. Ajustado com o cuidado de quem sabe que a comunidade tem memória boa.",
+            "badge": "BALANCEAMENTO"
+          },
+          {
+            "icon": "🛠️",
+            "color": "#2ee6a6",
+            "title": "Temporada de caça aos travamentos",
+            "text": "Vários bloqueios e congelamentos encontrados e eliminados. Se o jogo já ficou te encarando sem fazer nada, esse olhar não deveria mais se repetir (provavelmente).",
+            "badge": "FIX"
+          },
+          {
+            "icon": "🌀",
+            "color": "#b46bff",
+            "title": "Endless com mais conteúdo e mais variado",
+            "text": "Mais coisas para encontrar, mais formas de um loop ser diferente do anterior. Cavar fundo ainda deveria doer — agora só dói de jeitos novos.",
+            "badge": "MAIS ENDLESS"
+          },
+          {
+            "icon": "⚔️",
+            "color": "#ffb020",
+            "title": "O combate se move melhor",
+            "text": "As mortes dos inimigos agora têm um pouco de espetáculo, em vez de simplesmente sumir com cara de constrangimento. Detalhes pequenos, dos que se notam de verdade.",
+            "badge": "MAIS VIVO"
+          },
+          {
+            "icon": "✨",
+            "color": "#8a7dff",
+            "title": "E mais",
+            "text": "Coisas consertadas que ninguém pediu, coisas polidas que ninguém vai notar, e pelo menos uma mudança que nem eu mais lembro por que fiz. É assim desenvolver isso sozinho.",
+            "badge": "ETC."
+          }
+        ],
+        "footerTitle": "OBRIGADO POR CONTINUAR AQUI",
+        "footerText": "Nem carta nem inimigo escapou dessa vez, e o Arquivo terminou com bem menos travamentos do que tinha no início. Mochi continua vivo, continua sem pagar aluguel, e continua sendo a criatura mais bem paga do estúdio (zero moedas, moral lá em cima). Obrigado por dar a esta Agência mais trabalho do que ela merece. ❤️ — De um desenvolvedor solo com um grande sonho (e cada vez menos cartas sem arte própria)."
+      },
+      {
         "title": "PATCH 2.1 — OS DESAFIOS",
         "date": "2026-09-03",
         "tagline": "71 novos desafios, um modo Endless que finalmente exige estrategia de verdade, um Lucky Monk que descobriu que golpes tambem existem, e um Hard/Ultra que parou de fingir que era so decoracao.",
@@ -944,6 +1139,71 @@
       }
     ],
     "ko": [
+      {
+        "title": "패치 2.2 — 새 얼굴, 진짜 주먹",
+        "date": "2026-09-07",
+        "tagline": "모든 카드를 처음부터 다시 그렸고, 맞으면 진짜로 반응하는 적들이 생겼고, 알맹이가 더 많고 군더더기는 적은 엔드리스, 그리고 최악의 순간에 더 이상 기습하지 않는 버그 목록까지.",
+        "highlights": [
+          {
+            "icon": "🎨",
+            "color": "#ff6f91",
+            "title": "카드 191장 비주얼 전면 리워크",
+            "text": "예외 없이 모든 카드가 새로 그려졌습니다. 1년 전 처음 그릴 때 어쩌다 잘 나왔던 그림이 아니라, 에이전시 특유의 황당한 만화 톤에 실제로 어울리도록 다시 만들었습니다.",
+            "badge": "카드 191장"
+          },
+          {
+            "icon": "🎬",
+            "color": "#3aa0ff",
+            "title": "모든 카드에 전용 애니메이션 추가",
+            "text": "네, 전부입니다. 몇 개는 아직 '움직이긴 하는데 이렇게 움직여도 되는 건지 확신이 안 서는' 단계입니다 — 스타일리시한 베타라고 생각해 주세요.",
+            "badge": "검토 중"
+          },
+          {
+            "icon": "💥",
+            "color": "#e05c5c",
+            "title": "새로운 전투 시각 효과",
+            "text": "적, 상태이상, 체력바가 이제 뭔가 일어날 때 실제로 눈에 보입니다. 알고 보니 게임이 상황을 알려줄 때 플레이하기가 더 쉬웠던 것뿐이었습니다.",
+            "badge": "더 선명하게"
+          },
+          {
+            "icon": "⚖️",
+            "color": "#e0b23c",
+            "title": "여러 카드의 코스트·효과 조정",
+            "text": "너무 적게 하면서 너무 많이 받아가던 카드들, 그리고 그 반대의 경우도 있었습니다. 커뮤니티의 기억력이 좋다는 걸 아는 사람답게 조심스럽게 손봤습니다.",
+            "badge": "밸런스"
+          },
+          {
+            "icon": "🛠️",
+            "color": "#2ee6a6",
+            "title": "멈춤 현상 사냥철",
+            "text": "여러 멈춤·프리징 현상을 찾아서 제거했습니다. 게임이 아무것도 안 하고 당신을 가만히 쳐다본 적이 있다면, 그 눈빛은 이제 다시 안 볼 겁니다 (아마도).",
+            "badge": "FIX"
+          },
+          {
+            "icon": "🌀",
+            "color": "#b46bff",
+            "title": "더 많고 더 다양해진 엔드리스",
+            "text": "마주칠 거리가 늘었고, 한 루프가 이전 루프와 다르게 느껴질 방법도 늘었습니다. 깊이 파는 건 여전히 고통스러워야 하지만, 이제 새로운 방식으로 고통스럽습니다.",
+            "badge": "엔드리스 강화"
+          },
+          {
+            "icon": "⚔️",
+            "color": "#ffb020",
+            "title": "전투가 더 매끄러워졌습니다",
+            "text": "적이 죽을 때 그냥 곤란한 표정으로 사라지는 대신, 이제 약간의 볼거리가 생겼습니다. 작은 디테일이지만, 눈에 띄는 종류의 디테일입니다.",
+            "badge": "더 생동감있게"
+          },
+          {
+            "icon": "✨",
+            "color": "#8a7dff",
+            "title": "그 밖에도",
+            "text": "아무도 요청하지 않았는데 고친 것들, 아무도 눈치채지 못할 만큼 다듬은 것들, 그리고 저조차 왜 바꿨는지 기억나지 않는 변경사항이 최소 하나. 이게 바로 혼자 개발한다는 것입니다.",
+            "badge": "기타"
+          }
+        ],
+        "footerTitle": "계속 함께해 주셔서 감사합니다",
+        "footerText": "이번엔 카드도 적도 무사하지 못했고, 아카이브는 시작할 때보다 확실히 적은 수의 멈춤 현상을 갖게 되었습니다. 모찌는 여전히 살아있고, 여전히 월세를 안 내고 있으며, 여전히 스튜디오에서 가장 보수가 좋은 생물입니다 (급여 0원, 사기는 최고). 이 에이전시에 과분한 애정을 쏟아주셔서 감사합니다. ❤️ — 큰 꿈을 가진 1인 개발자로부터 (그리고 제대로 된 아트가 없는 카드는 점점 줄어들고 있습니다)."
+      },
       {
         "title": "패치 2.1 — 도전과제",
         "date": "2026-09-03",
